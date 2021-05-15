@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/09/TempeColorHorizontal_small.png
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-tempe.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-tempe.dayda.org'
 encoding: utf-8
