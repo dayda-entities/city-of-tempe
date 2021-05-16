@@ -1,0 +1,19 @@
+---
+title: 1.14 High Risk Inspections (detail FY17/18 to current)
+created: '2020-11-12T12:21:26.381637'
+modified: '2020-11-12T12:21:26.381648'
+state: active
+type: dataset
+tags:
+  - Ems
+  - Fire
+  - High Risk Fire Inspections Pm 1 14
+  - Safe And Secure Communities
+groups:
+  - Local Government
+csv_url: 'https://data.tempe.gov/datasets/0fe1ddf0a7514447b0072409c889b1a5_0.csv'
+json_url: ''
+layout: post
+
+---
+<p>The National Fire Protection Association (NFPA) and Commission on Fire Accreditation International (CFAI) standards provide criteria for for defining a High Risk Occupancy that can be tailored to the needs of the community.</p><p><br /></p><p>High risk occupancies have a:</p><p></p><ul><li>higher than average probability of a fire or other emergency occurring due to the type and/or quantity of materials stored, used, or handled on site related to the processes performed in business operations;</li><li>higher than average risk for injury or death to occupants due to age, physical or mental abilities of the occupants, the number of occupants (occupants load), or size and complexity of the structure.</li></ul><p></p><p>Examples may include elder care facilities, buildings with flammable liquids, and high rises where many inpiduals can become trapped. Both CFAI and NFPA recommend that High Risk Occupancies be inspected annually.</p><p><br /></p><p>The total number of high risk occupancies in the city may change from month-to-month as fire inspections and evaluations of occupancy risk are assessed utilizing the Community Risk Assessment Guideline to verify risk classification of occupancies. For example, the number of high risk occupancies ranged from 559 in 2015 based on a risk assessment guideline developed in 1997, to 808 in mid-2018 utilizing the updated risk assessment guideline developed in 2016. The updated Risk Assessment Guideline’s definition of occupancy risk and frequency of inspections were based on NFPA 1730 (Standard on organization and deployment of fire prevention inspection and code enforcement, plan review, investigation, and public education programs), and standards set forth by the Commission on Fire Accreditation International.</p><p><br /></p><p>This page provides data for the High Risk Facilities Fire Inspections performance measure. </p><p><br /></p><p></p><p>High Risk Inspections Completed for Fiscal Year 17/18, based on the most current available report.</p><p><br /></p><p>Data used to schedule annual Fire inspections based on high risk occupancies. High risk occupancies have a higher than average probability of a fire or other emergency occurring due to type and/or quantity of materials stored, used, or handled on site due to processes performed in business operations and a higher than average risk for injury or death to occupants due to age, physical or mental abilities of the occupants, the number of occupants (occupants load), or size and complexity of the structure.</p><p><br /></p><p>The performance measure dashboard is available at <a href='https://safe-and-secure-communities-tempegov.hub.arcgis.com/pages/high-risk-fire-inspections' rel='nofollow ugc' target='_blank'>1.14 High Risk Inspections</a></p><p><br /></p><p><b>Additional Information</b></p><p><br /></p><p>Source: Firehouse Software</p><p>Contact: Jim Schmit</p><p>Contact E-Mail: jim_schmit@tempe.gov</p><p>Data Source Type: Tabular</p><p>Preparation Method: Queried from Firehouse Server in Excel</p><p>Publish Frequency: Monthly</p><p>Publish Method: Manual</p><p><a href='https://gis.tempe.gov/design/data-dictionary/1.14%20High%20Risk%20Inspections%20FY17_18%20to%20current%20(detail)/' rel='nofollow ugc' target='_blank'>Data Dictionary</a><br /></p><p><br /></p>
