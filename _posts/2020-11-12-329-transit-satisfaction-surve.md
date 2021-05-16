@@ -1,0 +1,22 @@
+---
+title: 3.29 Transit Satisfaction Survey (summary)
+created: '2020-11-12T12:22:21.662989'
+modified: '2020-11-12T12:22:21.662996'
+state: active
+type: dataset
+tags:
+  - Engineering And Transportation
+  - Public Works
+  - Quality Of Life
+  - Survey
+  - Transit
+  - Transit Satisfaction Survey Pm 3 29
+  - Transportation
+groups:
+  - Local Government
+csv_url: 'https://data.tempe.gov/datasets/1ab97d2931574b9281e7bec688b25d34_0.csv'
+json_url: ''
+layout: post
+
+---
+<p style=''><p style=''><font><span style='font-size:16px;'>Public transportation services provide residents and visitors with safe and dependable ways to move throughout Tempe to access jobs, medical care, community resources, and recreational opportunities. Every two years, the city of Tempe completes a survey of Tempe residents to gain insights into perceptions about public transit among both riders and non-riders along with bicycle usage, awareness of Tempe in Motion program and the Tempe Youth Free Transit Pass program.</span></font></p><p style=''><font><span style='font-size:16px;'><br /></span></font></p><p style=''><font><span style='font-size:16px;'>Data compares Tempe's transit satisfaction among transit users and in some cases non users with the city of Phoenix and Valley Metro. Data is not collected every year in some cases.</span><br /></font></p><p style=''><font><span style='font-size:16px;'><br /></span></font></p><p style=''><font><span style='font-size:16px;'>This page provides data for the Transportation System Satisfaction performance measure. </span></font></p></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>The performance measure dashboard is available at <a href='https://quality-of-life-tempegov.hub.arcgis.com/pages/transportation-system-satisfaction' rel='nofollow ugc' target='_blank'>3.29 Transit Satisfaction Survey</a>.</p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><b>Additional Information</b></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font style='font-family:inherit;'>Source: <span style='font-family:inherit;'> </span></font><font style='font-family:inherit;'>Tempe, Phoenix, Valley Metro</font></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Contact: Sue Taaffe</p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Contact E-Mail: sue_taaffe@tempe.gov</p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font style='font-family:inherit;'>Data Source Type: </font><font style='font-family:inherit;'>Excel</font></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><font style='font-family:inherit;'>Preparation Method:  Pdf reports reviewed online and data entered into Excel</font></p><p style=''><font style='font-family:inherit; font-size:16px;'>Publish Frequency: </font><font><span style='font-size:16px;'>Every Two Years</span></font></p><p style=''><font style='font-family:inherit; font-size:16px;'>Publish Method: <span style='font-family:inherit;'> </span></font><font><span style='font-size:16px;'>Manual</span></font></p><p style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a href='https://gis.tempe.gov/design/data-dictionary/3.29%20Transit%20Satisfaction%20Survey%20(summary)/' rel='nofollow ugc' target='_blank'>Data Dictionary </a><br /></p>
